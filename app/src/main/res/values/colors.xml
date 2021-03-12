@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimary2">#292929</color>
+    <color name="colorPrimaryDark">#1D8DEE</color>
+    <color name="colorPrimaryDark2">#292929</color>
+    <color name="colorAccent">#fdbe3b</color>
+    <color name="colorDarkYellow">#fdbe3b</color>
+
+    <color name="colorWhite">#151E29</color>
+
+    <color name="colorSearchIcon">#dbdbdb</color>
+    <color name="colorTextHint">#7b7b7b</color>
+    <color name="quickActionBackground1">#3f3d3e</color>
+
+    <color name="quickActionBackground">#80FFFFFF</color>
+
+    <color name="quickActionBackground2">#E03F3D3E</color>
+    <color name="icons">#a4a4a4</color>
+    <color name="textSubtitles">#08A4FA</color>
+    <color name="defaultNoteColor">#333333</color>
+    <color name="noteSubtitleText">#fafafa</color>
+    <color name="miscellaneousBackground">#1f1f1f</color>
+    <color name="noteColor2">#0CEAED</color>
+
+    <color name="noteColor3">#9A3AFD</color>
+
+    <color name="noteColor4">#0FF8B3</color>
+    <color name="noteColor5">#ED4570</color>
+    <color name="colorDelete">#ff4842</color>
+    <color name="searchBackground">#CC08A4FA</color>
+    <color name="searchBackground2">#333333</color>
+    <color name="colorOrange">#08A4FA</color>
+
+    <color name="iconColor">#08A4FA</color>
+
+    <color name="navigationNew">#151E29</color>
+    <color name="barColor">#08A4FA</color>
+    <color name="barStrokeColor">#08A4FA</color>
+    <color name="cornerStrokeOrNote">#08A4FA</color>
+
+    <color name="endGradient">#E793FF</color>
+    <color name="startGradient">#cef</color>
+
+    <color name="dialogButton">#08A4FA</color>
+    <!--    our color -->
+</resources>

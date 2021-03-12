@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/option_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/options_background"
+    app:behavior_peekHeight="@dimen/_40sdp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+
+    <View
+        android:id="@+id/bottom_sheet_view"
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_8sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/bottom_sheet_design"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="@dimen/_45sdp" />
+
+    <View
+        android:id="@+id/viewColor1"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:background="@drawable/ring1"
+        app:layout_constraintEnd_toStartOf="@id/viewColor2"
+        app:layout_constraintHorizontal_chainStyle="spread"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/guideline" />
+
+
+    <View
+        android:id="@+id/viewColor2"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:background="@drawable/ring2"
+        app:layout_constraintEnd_toStartOf="@id/viewColor3"
+        app:layout_constraintStart_toEndOf="@id/viewColor1"
+        app:layout_constraintTop_toBottomOf="@id/guideline" />
+
+    <View
+        android:id="@+id/viewColor3"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:background="@drawable/ring3"
+        app:layout_constraintEnd_toStartOf="@id/viewColor4"
+        app:layout_constraintStart_toEndOf="@id/viewColor2"
+        app:layout_constraintTop_toBottomOf="@id/guideline" />
+
+    <View
+        android:id="@+id/viewColor4"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:background="@drawable/ring4"
+        app:layout_constraintEnd_toStartOf="@id/viewColor5"
+        app:layout_constraintStart_toEndOf="@id/viewColor3"
+        app:layout_constraintTop_toBottomOf="@id/guideline" />
+
+
+    <View
+        android:id="@+id/viewColor5"
+        android:layout_width="@dimen/_35sdp"
+
+        android:layout_height="@dimen/_35sdp"
+        android:background="@drawable/ring5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/viewColor4"
+        app:layout_constraintTop_toBottomOf="@id/guideline" />
+
+    <Button
+        android:id="@+id/addImage"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorWhite"
+        android:text="@string/add_image"
+        android:clickable="true"
+        android:focusable="true"
+        android:textAllCaps="false"
+        android:layout_marginTop="@dimen/_8sdp"
+        app:layout_constraintEnd_toEndOf="@id/viewColor5"
+        android:background="@android:color/transparent"
+        android:foreground="@drawable/button_stroke"
+        android:layout_marginBottom="@dimen/_5sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@id/viewColor1"
+        app:layout_constraintTop_toBottomOf="@id/viewColor1" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

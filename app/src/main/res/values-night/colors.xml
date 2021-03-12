@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151E29</color>
+    <color name="colorPrimary2">#292929</color>
+    <color name="colorPrimaryDark">#151E29</color>
+    <color name="colorPrimaryDark2">#292929</color>
+    <color name="colorAccent">#fdbe3b</color>
+    <color name="colorDarkYellow">#fdbe3b</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorSearchIcon">#dbdbdb</color>
+    <color name="colorTextHint">#7b7b7b</color>
+    <color name="quickActionBackground1">#3f3d3e</color>
+    <color name="quickActionBackground">#1B2737</color>
+    <color name="quickActionBackground2">#E03F3D3E</color>
+    <color name="icons">#a4a4a4</color>
+    <color name="textSubtitles">#cecece</color>
+    <color name="defaultNoteColor">#333333</color>
+    <color name="noteSubtitleText">#fafafa</color>
+    <color name="miscellaneousBackground">#1f1f1f</color>
+    <color name="noteColor2">#0CEAED</color>
+    <color name="noteColor3">#9A3AFD</color>
+    <color name="noteColor4">#0FF8B3</color>
+    <color name="noteColor5">#ED4570</color>
+    <color name="colorDelete">#ff4842</color>
+    <color name="searchBackground">#1B2737</color>
+    <color name="searchBackground2">#333333</color>
+    <color name="colorOrange">#d62828</color>
+
+
+    <color name="iconColor">#ffffff</color>
+    <color name="barColor">#ffffff</color>
+    <color name="barStrokeColor">#151E29</color>
+
+    <color name="endGradient">#77288E</color>
+    <color name="startGradient">#cef</color>
+
+
+    <color name="cornerStrokeOrNote">#00FFFFFF</color>
+    <color name="dialogButton">@color/barStrokeColor</color>
+    <!--    our color -->
+</resources>

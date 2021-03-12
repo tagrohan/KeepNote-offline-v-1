@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Keep Notes</string>
+    <string name="keep_notes">Keep Notes</string>
+    <string name="search_your_notes">\u0020\u0020\u0020Search your notes…</string>
+    <string name="note_title">Note title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="detailed_note">detailed note…</string>
+    <string name="add">add</string>
+    <string name="option">Options</string>
+    <string name="add_image">image</string>
+    <string name="add_track">add track</string>
+    <string name="click_to_add_new_note">click + to add new Note</string>
+
+</resources>
