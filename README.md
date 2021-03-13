@@ -12,15 +12,15 @@ A Media based note taking Application 📱 built to demonstrate the use MVC arch
  <br /> -->
 
 ## Day Mode 🌞
-Home | Add Note | Edit Note | Scrolling | Search Note 
---- | --- | --- |--- |--- 
-![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L1.png) | ![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L2.png) | ![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L3.png) |![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L4.png) |![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L5.png) 
+Home | Add Note | Edit Note | Search Note 
+--- | --- | --- |---
+![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L1.png) | ![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L2.png) | ![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L3.png) |![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/L5.png) 
 
 <br />
 
 ## Night Mode 🌚
-Home | Edit Note | Scrolling | Search Note | Day/Night
---- | --- | --- |--- |--- 
-![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D1.png) | ![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D2.png) | ![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D3.png) |![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D4.png) |![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D5.png) 
+Home | Edit Note | Search Note | Day/Night
+--- | --- | --- |---
+![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D1.png) | ![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D2.png) |![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D4.png) |![](https://github.com/tagrohan/KeepNote-offline-v-1/blob/master/images/D5.png) 
 
 <br />
